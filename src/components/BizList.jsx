@@ -24,17 +24,16 @@ const bizList = [
   },
   {
     name: "Bless Your Heart Burgers",
-    brand: "https://www.tastyndaughters.com/gift-certificates",
+    url: "https://www.tastyndaughters.com/gift-certificates",
   },
   {
     name: "Shalom Y'all",
-    brand: "https://www.tastyndaughters.com/gift-certificates",
+    url: "https://www.tastyndaughters.com/gift-certificates",
   },
   {
     name: "Eritzo",
     url: "https://squareup.com/gift/HC1Y52R6P7MKA/order",
   },
-  }
 ];
 function BizList(){
   return (
