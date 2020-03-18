@@ -10,10 +10,14 @@
   min-width: 10%;
   max-width: 30%;
   margin: 5px;
+  background-color: white;
+  border-radius: 2vh;
+  padding: 2vh;
 }
 
-.bizList {
-  position: relative;
+.row-lg-4 {
+  background-color: lightblue;
+  /* position: relative;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -24,5 +28,5 @@
   border-radius: 4vh;
   margin: 10px;
   text-align: left;
-  align-content: center;
+  align-content: center; */
 }

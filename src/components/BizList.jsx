@@ -37,7 +37,7 @@ const bizList = [
 ];
 function BizList(){
   return (
-    <div className = "bizList">
+    <div className = "row-lg-4">
     {bizList.map((biz, index) =>
       <Biz
       name={biz.name}
